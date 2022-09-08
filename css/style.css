@@ -40,6 +40,11 @@ footer{
     justify-content: space-between;
 }
 
+.footer-left{
+    display: flex;
+    text-align: center;
+}
+
 .white-text{
     color: white;
 }
@@ -48,4 +53,13 @@ footer{
     color: red; 
     background-color: #4a4a4a;
     padding: 1.3em;
+}
+
+.footer-middle{
+    text-align: center;
+    display: flex;
+}
+
+.margin-right{
+    margin-right: 0.8em;
 }
