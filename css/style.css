@@ -4,3 +4,21 @@ html{
     margin: 0;
     box-sizing: border-box;
 }
+
+/* MAIN */
+body{
+    /* background-color: black; */
+}
+
+.container{
+    display: inline-block;
+}
+
+
+
+.container-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
